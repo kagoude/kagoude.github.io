@@ -82,14 +82,14 @@ body {
 	
 }
 #home {
-	background-image : url("home.PNG");
+	background-image : url("home.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
 	
 }
 #home:hover {
-	background-image : url("homeho.PNG");
+	background-image : url("homeho.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
@@ -97,42 +97,42 @@ body {
 }
 
 #contact{
-	background-image : url("contact.PNG");
+	background-image : url("contact.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
 
 }
 #lift:hover {
-	background-image : url("contactho.PNG");
+	background-image : url("contactho.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
 	
 }
 #about{
-	background-image : url("about.PNG");
+	background-image : url("about.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
 
 }
 #about:hover {
-	background-image : url("aboutho.PNG");
+	background-image : url("aboutho.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
 	
 }
 #galerie{
-	background-image : url("galerie.PNG");
+	background-image : url("galerie.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
 
 }
 #galerie:hover {
-	background-image : url("galerieho.PNG");
+	background-image : url("galerieho.png");
 	height:130px;
 	width:50px;
 	margin-right: 15px;
